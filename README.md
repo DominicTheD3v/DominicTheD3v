@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DominicTheD3v
 - 👀 I’m interested in Programming, Cycling and Gaming!
 - 🌱 I’m currently learning Java, NodeJS and CSS
-- 💞️ I’m looking to collaborate on Mincraft Networks
+- 💞️ I’m looking to collaborate on Minecraft Networks
 - 📫 How to reach me preferably using my Discord: DominicTheDev#3864
 
 <!---

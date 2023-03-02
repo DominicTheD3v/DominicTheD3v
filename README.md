@@ -29,3 +29,6 @@ You can contact me through many ways.
 💬Discord: DominicTheDev#4979
 
 
+<script>
+console.log("hi")
+</script>

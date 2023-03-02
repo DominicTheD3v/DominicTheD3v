@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://discord.gg/moxiservices">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dominicthed3v&style=flat-square&color=yellow" alt=""/>
@@ -25,6 +25,7 @@ My name is Dominic. I am an experienced fullstack and DevOPS developer. 💻
 You can contact me through many ways.
 
 📧Email: thedevdominic@gmail.com
+
 💬Discord: DominicTheDev#4979
 
 

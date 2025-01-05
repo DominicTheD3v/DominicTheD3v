@@ -20,6 +20,10 @@ Hi! 👋
 
 My name is Dominic. I am an experienced fullstack and DevOPS developer. 💻
 
+## My Skill Set
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
 ## Contact Me
 
 You can contact me through many ways.

@@ -18,7 +18,7 @@
 
 Hi! 👋
 
-My name is Dominic. I am an experienced fullstack and DevOPS developer. 💻
+My name is Dominic. I am an experienced fullstack and DevOps developer. 💻
 
 ## My Skill Set
 

@@ -22,7 +22,7 @@ My name is Dominic. I am an experienced fullstack and DevOPS developer. 💻
 
 ## My Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,bash,blender,bootstrap,cs,cloudflare,codepen,debian,discord,bots,discordpy,docker,dotnet,express,figma,flask,git,github,gmail,heroku,html,js,css,idea,java,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,npm,php,postman,py,raspberrypi,replit,robloxstudio,sqlite,stackoverflow,tailwind,ubuntu,visualstudio,windows)](https://skillicons.dev)
 
 ## Contact Me
 

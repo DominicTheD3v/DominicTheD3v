@@ -26,9 +26,9 @@ My name is Dominic. I am an experienced fullstack and DevOps developer. 💻
 
 ## Contact Me
 
-You can contact me through many ways.
+You can contact me via email or discord.
 
 📧Email: thedevdominic@gmail.com
 
-💬Discord: DominicTheDev#4979
+💬Discord: @dominic.py
 
